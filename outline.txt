@@ -1,0 +1,5 @@
+How the game works:
+1. Randomly pick a word from list. Give certain amount of tries.
+2. Listen for player to press key.
+3. Decide which key user pushes. If it is not one he has clicked before, then check if that letter is part of the word picked. 
+4. 
